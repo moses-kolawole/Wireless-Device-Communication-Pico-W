@@ -18,6 +18,8 @@ This project introduces important networking concepts used in IoT and embedded s
 ## project code files
 
 [click here to download the server code](connecting_the_raspberry_pi_pico_w_to_wifi_project.py)
+
+
 [click here to download the client code](my_client.py)
 
 ## Server Code
